@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656612339 source:d:\coding & software development projects\data structures in c and c++\...mca\doublylinkedlist\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
